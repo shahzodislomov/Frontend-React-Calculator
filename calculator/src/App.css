@@ -1,0 +1,60 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(https://st.depositphotos.com/1288351/3082/i/450/depositphotos_30826371-stock-photo-deep-space-background.jpg);
+}
+.barchasi {
+  margin-left: 450px;
+  width: 370px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 50px;
+  background-color: black;
+  height: 410px;
+  box-shadow: 0px 0px 10px white;
+}
+.barchasi .buttons button {
+  padding: 20px 30px;
+  margin: 5px;
+}
+.barchasi .buttons .input input {
+  width: 200px;
+  height: 40px;
+  box-shadow: 0px 0px 10px brown;
+  margin-top: 10px;
+}
+.barchasi .buttons button {
+  color: white;
+  background-color: blueviolet;
+  border: none;
+  box-shadow: 0px 0px 5px white;
+  font-size: 25px;
+  border-radius: 10px;
+}
+.barchasi .buttons button:hover {
+  background-color: green;
+  font-size: 29px;
+  transition: ease-in-out 0.5s;
+}
+.barchasi .buttons button:active {
+  background-color: red;
+  font-size: 25px;
+  transition: ease-in-out 0.3s;
+}
+.barchasi .buttons button:active {
+  background-color: red;
+  font-size: 25px;
+  transition: ease-in-out 0.3s;
+}
+.buttons .input input{ 
+  outline: transparent;
+  border: 1px solid red;
+  height: 100px;
+  width: 350px;
+  text-align: center;
+  box-shadow: 0px 0px 10px white;
+  color: white;
+  font-size: 25px;
+  background-color: rgba(206, 242, 206, 0.646);
+}
